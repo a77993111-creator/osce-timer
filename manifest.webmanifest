@@ -3,13 +3,13 @@
   "short_name": "OSCE 計時",
   "description": "OSCE 考官手機計時器：指針倒數、提醒轉橘、超時轉紅",
   "lang": "zh-Hant",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "orientation": "any",
   "background_color": "#eaf1ee",
   "theme_color": "#eaf1ee",
   "icons": [
-    {"src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}
+    {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}
   ]
 }

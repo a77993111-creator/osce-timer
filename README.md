@@ -21,7 +21,11 @@ OSCE 考官用的手機計時器，單一 HTML 檔，瀏覽器打開即可使用
 - qrcode-generator 1.4.4（Kazuhiko Arase，MIT License），經 cdnjs 載入
 - 無中國來源的 AI 模型、套件或元件
 
+## 使用方式
+手機或電腦瀏覽器開啟：https://a77993111-creator.github.io/osce-timer/
+
 ## 版本
+- v2.1（2026-10-29）：改由 GitHub Pages 發布，網址與分享 QR code 更新
 - v2.0（2026-10-29）：指針錶面、咕咕醫師、童話風格、分享與通知
 
 ## 版權
